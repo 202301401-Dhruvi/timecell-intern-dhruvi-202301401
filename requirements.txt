@@ -1,0 +1,5 @@
+anthropic
+google-generativeai
+yfinance
+requests
+python-dotenv
