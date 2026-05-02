@@ -22,8 +22,7 @@ Get a free Gemini key at: https://aistudio.google.com
 
 ```markdown
 ## Loom Video
-
-[Add your Loom link here]
+https://www.loom.com/share/2a7c02184bc44a51957daec086815554
 ## Run Instructions
 
 ```bash
